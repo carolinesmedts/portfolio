@@ -1,0 +1,249 @@
+.onzichtbaar {
+	display: none;
+}
+
+.header {
+	background-image: url(img/28eab60b59128b89febf48ca51bbfcee.jpg);
+	height: 120px;
+	padding-top: 50px;
+}
+
+.about {
+	width: 300px;
+	height: 300px;
+	border-radius: 150px;
+	-webkit-border-radius: 150px;
+	-moz-border-radius: 150px;
+	float: left;
+	margin-left: 200px;
+	margin-top: 100px;
+	margin-bottom: 50px;
+	margin-right: 50px;
+	background-image: url(img/aboutme.jpg);
+
+}
+
+.work {
+	width: 300px;
+	height: 300px;
+	border-radius: 150px;
+	-webkit-border-radius: 150px;
+	-moz-border-radius: 150px;
+	float: left;
+	margin-left: 20px;
+	margin-top: 100px;
+	margin-bottom: 50px;
+	margin-right: 50px;
+	background-image: url(img/mywork.jpg);
+}
+
+.social {
+	width: 300px;
+	height: 300px;
+	border-radius: 150px;
+	-webkit-border-radius: 150px;
+	-moz-border-radius: 150px;
+	float: left;
+	margin-left: 20px;
+	margin-top: 100px;
+	margin-bottom: 50px;
+	background-image: url(img/socialmedia.png);
+}
+
+h1 {
+	font-family: 'Pacifico', cursive;
+	font-size: 60px;
+	text-align: center;
+}
+
+h2 {
+	font-family: 'Pacifico', cursive;
+	font-size: 50px;
+	color: black;
+	text-align: center;
+	margin-top: 130px;
+}
+
+h3 {
+	font-family: 'Pacifico', cursive;
+	font-size: 45px;
+	text-align: center; 
+	margin-top: 50px;
+}
+
+img {
+	float: left;
+	margin-left: 30px;
+}
+
+p {
+	float: right;
+	margin-right: 10px;
+}
+
+h4 {
+	font-family: 'Pacifico', cursive;
+	font-size: 45px;
+	text-align: center;
+	margin-top: 50px;
+	margin-bottom: 55px;
+
+}
+
+
+.mywork1 {
+	width: 300px;
+	height: 300px;
+	border-radius: 150px;
+	-webkit-border-radius: 150px;
+	-moz-border-radius: 150px;
+	background-image: url(img/comming.jpg);
+	float: left;
+	margin-left: 180px;
+	margin-right: 75px;
+	margin-bottom: 20px;
+
+}
+
+.mywork2 {
+	width: 300px;
+	height: 300px;
+	border-radius: 150px;
+	-webkit-border-radius: 150px;
+	-moz-border-radius: 150px;
+	background-image: url(img/comming.jpg);
+	float: left;
+	margin-right: 75px;
+	margin-bottom: 20px;
+}
+
+.mywork3 {
+	width: 300px;
+	height: 300px;
+	border-radius: 150px;
+	-webkit-border-radius: 150px;
+	-moz-border-radius: 150px;
+	background-image: url(img/comming.jpg);
+	float: left;
+	margin-bottom: 20px;
+}
+
+.mywork4 {
+	width: 300px;
+	height: 300px;
+	border-radius: 150px;
+	-webkit-border-radius: 150px;
+	-moz-border-radius: 150px;
+	background-image: url(img/comming.jpg);
+	float: left;
+	margin-left: 180px;
+	margin-right: 75px;
+	margin-bottom: 20px;
+}
+
+.mywork5 {
+	width: 300px;
+	height: 300px;
+	border-radius: 150px;
+	-webkit-border-radius: 150px;
+	-moz-border-radius: 150px;
+	background-image: url(img/comming.jpg);
+	float: left;
+	margin-right: 75px;
+	margin-bottom: 20px;
+}
+
+.mywork6 {
+	width: 300px;
+	height: 300px;
+	border-radius: 150px;
+	-webkit-border-radius: 150px;
+	-moz-border-radius: 150px;
+	background-image: url(img/comming.jpg);
+	float: left;
+	margin-bottom: 20px;
+}
+
+.mywork7 {
+	width: 300px;
+	height: 300px;
+	border-radius: 150px;
+	-webkit-border-radius: 150px;
+	-moz-border-radius: 150px;
+	background-image: url(img/comming.jpg);
+	float: left;
+	margin-left: 180px;
+	margin-right: 75px;
+	margin-bottom: 20px;
+}
+
+.mywork8 {
+	width: 300px;
+	height: 300px;
+	border-radius: 150px;
+	-webkit-border-radius: 150px;
+	-moz-border-radius: 150px;
+	background-image: url(img/comming.jpg);
+	float: left;
+	margin-right: 75px;
+	margin-bottom: 20px;
+}
+
+.mywork9 {
+	width: 300px;
+	height: 300px;
+	border-radius: 150px;
+	-webkit-border-radius: 150px;
+	-moz-border-radius: 150px;
+	background-image: url(img/comming.jpg);
+	float: left;
+	margin-bottom: 20px;
+}
+
+.wordpress {
+	width: 300px;
+	height: 300px;
+	border-radius: 150px;
+	-webkit-border-radius: 150px;
+	-moz-border-radius: 150px;
+	background-image: url(img/comming.jpg);
+	float: left;
+	margin-left: 65px;
+	margin-right: 25px;
+
+}
+
+.instagram {
+	width: 300px;
+	height: 300px;
+	border-radius: 150px;
+	-webkit-border-radius: 150px;
+	-moz-border-radius: 150px;
+	background-image: url(img/comming.jpg);
+	float: left;
+	margin-right: 25px;
+
+}
+
+.twitter {
+	width: 300px;
+	height: 300px;
+	border-radius: 150px;
+	-webkit-border-radius: 150px;
+	-moz-border-radius: 150px;
+	background-image: url(img/comming.jpg);
+	float: left;
+	margin-right: 25px;
+
+}
+
+.pinterest{
+	width: 300px;
+	height: 300px;
+	border-radius: 150px;
+	-webkit-border-radius: 150px;
+	-moz-border-radius: 150px;
+	background-image: url(img/comming.jpg);
+	float: left;
+
+}
