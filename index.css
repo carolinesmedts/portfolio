@@ -3,7 +3,7 @@
 }
 
 .header {
-	background-image: url(file:///Users/carolinesmedts/Desktop/index/28eab60b59128b89febf48ca51bbfcee.jpg);
+	background-image: url(img/28eab60b59128b89febf48ca51bbfcee.jpg);
 	height: 120px;
 	padding-top: 50px;
 }
@@ -19,7 +19,7 @@
 	margin-top: 100px;
 	margin-bottom: 50px;
 	margin-right: 50px;
-	background-image: url(file:///Users/carolinesmedts/Desktop/index/aboutme.jpg);
+	background-image: url(img/aboutme.jpg);
 
 }
 
@@ -34,7 +34,7 @@
 	margin-top: 100px;
 	margin-bottom: 50px;
 	margin-right: 50px;
-	background-image: url(file:///Users/carolinesmedts/Desktop/index/mywork.jpg);
+	background-image: url(img/mywork.jpg);
 }
 
 .social {
@@ -47,7 +47,7 @@
 	margin-left: 20px;
 	margin-top: 100px;
 	margin-bottom: 50px;
-	background-image: url(file:///Users/carolinesmedts/Desktop/index/socialmedia.png);
+	background-image: url(img/socialmedia.png);
 }
 
 h1 {
@@ -210,7 +210,7 @@ h5 {
 	border-radius: 150px;
 	-webkit-border-radius: 150px;
 	-moz-border-radius: 150px;
-	background-image: url(file:///Users/carolinesmedts/Desktop/index/work1.jpg);
+	background-image: url(img/work1.jpg);
 	float: left;
 	margin-left: 180px;
 	margin-right: 75px;
@@ -224,7 +224,7 @@ h5 {
 	border-radius: 150px;
 	-webkit-border-radius: 150px;
 	-moz-border-radius: 150px;
-	background-image: url(file:///Users/carolinesmedts/Desktop/index/work2.jpg);
+	background-image: url(img/work2.jpg);
 	float: left;
 	margin-right: 75px;
 	margin-bottom: 20px;
@@ -236,7 +236,7 @@ h5 {
 	border-radius: 150px;
 	-webkit-border-radius: 150px;
 	-moz-border-radius: 150px;
-	background-image: url(file:///Users/carolinesmedts/Desktop/index/work3.jpg);
+	background-image: url(img/work3.jpg);
 	float: left;
 	margin-bottom: 20px;
 }
@@ -247,7 +247,7 @@ h5 {
 	border-radius: 150px;
 	-webkit-border-radius: 150px;
 	-moz-border-radius: 150px;
-	background-image: url(file:///Users/carolinesmedts/Desktop/index/work4.jpg);
+	background-image: url(img/work4.jpg);
 	float: left;
 	margin-left: 180px;
 	margin-right: 75px;
@@ -260,7 +260,7 @@ h5 {
 	border-radius: 150px;
 	-webkit-border-radius: 150px;
 	-moz-border-radius: 150px;
-	background-image: url(file:///Users/carolinesmedts/Desktop/index/work5.jpg);
+	background-image: url(img/work5.jpg);
 	float: left;
 	margin-right: 75px;
 	margin-bottom: 20px;
@@ -272,7 +272,7 @@ h5 {
 	border-radius: 150px;
 	-webkit-border-radius: 150px;
 	-moz-border-radius: 150px;
-	background-image: url(file:///Users/carolinesmedts/Desktop/index/work6.jpg);
+	background-image: url(img/work6.jpg);
 	float: left;
 	margin-bottom: 20px;
 }
@@ -283,7 +283,7 @@ h5 {
 	border-radius: 150px;
 	-webkit-border-radius: 150px;
 	-moz-border-radius: 150px;
-	background-image: url(file:///Users/carolinesmedts/Desktop/index/work7.jpg);
+	background-image: url(img/work7.jpg);
 	float: left;
 	margin-left: 180px;
 	margin-right: 75px;
@@ -296,7 +296,7 @@ h5 {
 	border-radius: 150px;
 	-webkit-border-radius: 150px;
 	-moz-border-radius: 150px;
-	background-image: url(file:///Users/carolinesmedts/Desktop/index/work8.jpg);
+	background-image: url(img/work8.jpg);
 	float: left;
 	margin-right: 75px;
 	margin-bottom: 20px;
@@ -308,7 +308,7 @@ h5 {
 	border-radius: 150px;
 	-webkit-border-radius: 150px;
 	-moz-border-radius: 150px;
-	background-image: url(file:///Users/carolinesmedts/Desktop/index/comming.jpg);
+	background-image: url(img/comming.jpg);
 	float: left;
 	margin-bottom: 20px;
 }
