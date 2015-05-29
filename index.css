@@ -3,7 +3,7 @@
 }
 
 .header {
-	background-image: url(img/28eab60b59128b89febf48ca51bbfcee.jpg);
+	background-image: url(file:///Users/carolinesmedts/Desktop/index/28eab60b59128b89febf48ca51bbfcee.jpg);
 	height: 120px;
 	padding-top: 50px;
 }
@@ -19,7 +19,7 @@
 	margin-top: 100px;
 	margin-bottom: 50px;
 	margin-right: 50px;
-	background-image: url(img/aboutme.jpg);
+	background-image: url(file:///Users/carolinesmedts/Desktop/index/aboutme.jpg);
 
 }
 
@@ -34,7 +34,7 @@
 	margin-top: 100px;
 	margin-bottom: 50px;
 	margin-right: 50px;
-	background-image: url(img/mywork.jpg);
+	background-image: url(file:///Users/carolinesmedts/Desktop/index/mywork.jpg);
 }
 
 .social {
@@ -47,42 +47,67 @@
 	margin-left: 20px;
 	margin-top: 100px;
 	margin-bottom: 50px;
-	background-image: url(img/socialmedia.png);
+	background-image: url(file:///Users/carolinesmedts/Desktop/index/socialmedia.png);
 }
 
 h1 {
-	font-family: 'Pacifico', cursive;
-	font-size: 60px;
+	font-family: 'Arizonia', cursive;
+	font-size: 65px;
 	text-align: center;
+	padding: 10px;
+
+}
+
+.kader {
+	width: 600px;
+	height: 90px;
+	background-color: white;
+	margin-left: 380px;
 }
 
 h2 {
-	font-family: 'Pacifico', cursive;
+	font-family: 'Arizonia', cursive;
 	font-size: 50px;
 	color: black;
 	text-align: center;
-	margin-top: 130px;
+	margin-top: 120px;
+	/* text zonder opacity? */
+
+}
+
+button {
+	font-family: 'Poiret One', cursive;
+	/*margin: 0 auto;*/
+	float: left;
+	margin-left: 20px;
+	position: absolute;
 }
 
 h3 {
-	font-family: 'Pacifico', cursive;
+	font-family: 'Poiret One', cursive;
 	font-size: 45px;
 	text-align: center; 
 	margin-top: 50px;
+	margin-bottom: 30px;
 }
 
 img {
 	float: left;
-	margin-left: 30px;
+	margin-left: 130px;
 }
 
 p {
+	font-family: 'Titillium Web', sans-serif;
+}
+
+.text {
 	float: right;
-	margin-right: 10px;
+	width: 500px;
+	margin-right: 235px;
 }
 
 h4 {
-	font-family: 'Pacifico', cursive;
+	font-family: 'Poiret One', cursive;
 	font-size: 45px;
 	text-align: center;
 	margin-top: 50px;
@@ -90,14 +115,102 @@ h4 {
 
 }
 
+h5 {
+	font-family: 'Titillium Web', sans-serif;
+	font-size: 20px;
+	text-align: center;
+	background-color: white;
+}
+.about:hover { 
+	opacity:0.6;
+}	
 
+.work:hover { 
+	opacity:0.6;
+}
+
+.social:hover { 
+	opacity:0.6;
+}
+.hidden {
+	display:none;
+}
+
+.mywork1:hover { 
+	opacity:0.6;
+}
+.mywork2:hover { 
+	opacity:0.6;
+}
+.mywork3:hover { 
+	opacity:0.6;
+}
+.mywork4:hover { 
+	opacity:0.6;
+}
+.mywork5:hover { 
+	opacity:0.6;
+}
+.mywork6:hover { 
+	opacity:0.6;
+}
+.mywork7:hover { 
+	opacity:0.6;
+}
+.mywork8:hover { 
+	opacity:0.4;
+}
+
+.about:hover .hidden {
+	display:block;
+}
+
+.work:hover .hidden {
+	display: block;
+}
+
+.social:hover .hidden {
+	display: block;
+}
+
+.mywork1:hover .hidden {
+	display: block;
+}
+
+.mywork2:hover .hidden {
+	display: block;
+}
+
+.mywork3:hover .hidden {
+	display: block;
+}
+
+.mywork4:hover .hidden {
+	display: block;
+}
+
+.mywork5:hover .hidden {
+	display: block;
+}
+
+.mywork6:hover .hidden {
+	display: block;
+}
+
+.mywork7:hover .hidden {
+	display: block;
+}
+
+.mywork8:hover .hidden {
+	display: block;
+}
 .mywork1 {
 	width: 300px;
 	height: 300px;
 	border-radius: 150px;
 	-webkit-border-radius: 150px;
 	-moz-border-radius: 150px;
-	background-image: url(img/comming.jpg);
+	background-image: url(file:///Users/carolinesmedts/Desktop/index/work1.jpg);
 	float: left;
 	margin-left: 180px;
 	margin-right: 75px;
@@ -111,7 +224,7 @@ h4 {
 	border-radius: 150px;
 	-webkit-border-radius: 150px;
 	-moz-border-radius: 150px;
-	background-image: url(img/comming.jpg);
+	background-image: url(file:///Users/carolinesmedts/Desktop/index/work2.jpg);
 	float: left;
 	margin-right: 75px;
 	margin-bottom: 20px;
@@ -123,7 +236,7 @@ h4 {
 	border-radius: 150px;
 	-webkit-border-radius: 150px;
 	-moz-border-radius: 150px;
-	background-image: url(img/comming.jpg);
+	background-image: url(file:///Users/carolinesmedts/Desktop/index/work3.jpg);
 	float: left;
 	margin-bottom: 20px;
 }
@@ -134,7 +247,7 @@ h4 {
 	border-radius: 150px;
 	-webkit-border-radius: 150px;
 	-moz-border-radius: 150px;
-	background-image: url(img/comming.jpg);
+	background-image: url(file:///Users/carolinesmedts/Desktop/index/work4.jpg);
 	float: left;
 	margin-left: 180px;
 	margin-right: 75px;
@@ -147,7 +260,7 @@ h4 {
 	border-radius: 150px;
 	-webkit-border-radius: 150px;
 	-moz-border-radius: 150px;
-	background-image: url(img/comming.jpg);
+	background-image: url(file:///Users/carolinesmedts/Desktop/index/work5.jpg);
 	float: left;
 	margin-right: 75px;
 	margin-bottom: 20px;
@@ -159,7 +272,7 @@ h4 {
 	border-radius: 150px;
 	-webkit-border-radius: 150px;
 	-moz-border-radius: 150px;
-	background-image: url(img/comming.jpg);
+	background-image: url(file:///Users/carolinesmedts/Desktop/index/work6.jpg);
 	float: left;
 	margin-bottom: 20px;
 }
@@ -170,7 +283,7 @@ h4 {
 	border-radius: 150px;
 	-webkit-border-radius: 150px;
 	-moz-border-radius: 150px;
-	background-image: url(img/comming.jpg);
+	background-image: url(file:///Users/carolinesmedts/Desktop/index/work7.jpg);
 	float: left;
 	margin-left: 180px;
 	margin-right: 75px;
@@ -183,7 +296,7 @@ h4 {
 	border-radius: 150px;
 	-webkit-border-radius: 150px;
 	-moz-border-radius: 150px;
-	background-image: url(img/comming.jpg);
+	background-image: url(file:///Users/carolinesmedts/Desktop/index/work8.jpg);
 	float: left;
 	margin-right: 75px;
 	margin-bottom: 20px;
@@ -195,55 +308,7 @@ h4 {
 	border-radius: 150px;
 	-webkit-border-radius: 150px;
 	-moz-border-radius: 150px;
-	background-image: url(img/comming.jpg);
+	background-image: url(file:///Users/carolinesmedts/Desktop/index/comming.jpg);
 	float: left;
 	margin-bottom: 20px;
-}
-
-.wordpress {
-	width: 300px;
-	height: 300px;
-	border-radius: 150px;
-	-webkit-border-radius: 150px;
-	-moz-border-radius: 150px;
-	background-image: url(img/comming.jpg);
-	float: left;
-	margin-left: 65px;
-	margin-right: 25px;
-
-}
-
-.instagram {
-	width: 300px;
-	height: 300px;
-	border-radius: 150px;
-	-webkit-border-radius: 150px;
-	-moz-border-radius: 150px;
-	background-image: url(img/comming.jpg);
-	float: left;
-	margin-right: 25px;
-
-}
-
-.twitter {
-	width: 300px;
-	height: 300px;
-	border-radius: 150px;
-	-webkit-border-radius: 150px;
-	-moz-border-radius: 150px;
-	background-image: url(img/comming.jpg);
-	float: left;
-	margin-right: 25px;
-
-}
-
-.pinterest{
-	width: 300px;
-	height: 300px;
-	border-radius: 150px;
-	-webkit-border-radius: 150px;
-	-moz-border-radius: 150px;
-	background-image: url(img/comming.jpg);
-	float: left;
-
 }
